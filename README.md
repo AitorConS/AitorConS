@@ -30,3 +30,9 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+<hr>
+
+<p align="center">
+  <strong><a href="example.com"> Official Website [Coming Soon]</a></strong> |
+  <strong><a href="https://www.linkedin.com/">LinkedIn</a></strong> 
+</p>
