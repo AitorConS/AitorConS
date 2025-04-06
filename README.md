@@ -3,7 +3,7 @@
 <hr>
 
 <pre>
-💻 I am a Senior Technician in Network Systems Administration and a Junior Programmer.
+💻 I am a Junior Technician in Network Systems Administration and a Junior Programmer.
 📚 I have an official degree as a Microcomputer Systems Technician from the Kingdom of Spain.
 📝 I have a strong interest in remote services, servers, and container technology.
 🌱 Learning about Containers and Kubernetes systems.
