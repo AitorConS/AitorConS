@@ -9,7 +9,7 @@
 🌱 Learning about Containers and Kubernetes systems.
 🌟 My main programming language is Python.
 🚩 Interested in auto-scaling applications and machine learning.
-🔨 Currently working on my web portfolio: <b>Coming soon...<b>
+🔨 My web portfolio: <b>aitorconesa.es<b>
 </pre>
 <hr>
 
@@ -33,6 +33,6 @@
 <hr>
 
 <p align="center">
-  <strong><a href="example.com"> Official Website [Coming Soon]</a></strong> |
+  <strong><a href="https://www.aitorconesa.es"> Official Website </a></strong> |
   <strong><a href="https://www.linkedin.com/">LinkedIn</a></strong> 
 </p>
